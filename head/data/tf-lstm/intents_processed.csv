@@ -1,0 +1,101 @@
+patterns,tags
+hi there,greeting
+how are you,greeting
+is anyone there,greeting
+hey,greeting
+hello,greeting
+yo,greeting
+hi,greeting
+how are you,greeting
+is anyone there,greeting
+whats up,greeting
+how are you,greeting
+heyy,greeting
+whats up,greeting
+wazzup,greeting
+how are you,greeting
+sup,greeting
+how you doing,greeting
+cya,goodbye
+see you,goodbye
+bye bye,goodbye
+see you later,goodbye
+goodbye,goodbye
+i am leaving,goodbye
+bye,goodbye
+have a good day,goodbye
+talk to you later,goodbye
+i got to go,goodbye
+get lost,goodbye
+till next time,goodbye
+bbye,goodbye
+thanks,thanks
+thank you,thanks
+thats helpful,thanks
+awesome thanks,thanks
+thanks for helping me,thanks
+awesome,exclaim
+great,exclaim
+i know,exclaim
+ok,exclaim
+yeah,exclaim
+haha,haha
+lol,haha
+rofl,haha
+lmao,haha
+thats funny,haha
+you are dumb,insult
+shut up,insult
+idiot,insult
+no,no
+nope,no
+what are you doing,activity
+what are you upto,activity
+you are awesome,appreciate
+you are the best,appreciate
+you are great,appreciate
+you are good,appreciate
+you are useless,suggest
+useless,suggest
+suggest,suggest
+suggestions,suggest
+you are bad,suggest
+who are you,identity
+what are you,identity
+your name,identity
+do you have a name,identity
+what are you called,identity
+what is your name,identity
+what should i call you,identity
+whats your name,identity
+what is the name of your developers,creator
+what is the name of your creators,creator
+who created you,creator
+your developers,creator
+your creators,creator
+who are your developers,creator
+you are made by whom,creator
+who created you,creator
+who made you,creator
+who designed you,creator
+how old are you,age
+when were you made,age
+what is your age,age
+how you could help me,options
+what you can do,options
+what help you provide,options
+how you can be helpful,options
+what support is offered,options
+what can you do for me,options
+what can you do,options
+what are the thing you can do,options
+things you can do,options
+what can u do for me,options
+how u can help me,options
+why i should use you,options
+tell me a joke,jokes
+joke,jokes
+make me laugh,jokes
+ask me a riddle,riddles
+ask me a question,riddles
+riddle,riddles

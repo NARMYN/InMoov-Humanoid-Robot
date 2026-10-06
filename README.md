@@ -5,7 +5,7 @@
 [![InMoov](https://img.shields.io/badge/Hardware-InMoov%20(3D%20printed)-orange)](https://inmoov.fr/)
 [![Python](https://img.shields.io/badge/Python-3.7%E2%80%933.9-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![Arduino](https://img.shields.io/badge/Arduino-Servo%20control-00979D?logo=arduino&logoColor=white)](https://www.arduino.cc/)
-[![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-MATRIX%20Creator-C51A4A?logo=raspberrypi&logoColor=white)](https://www.matrix.one/)
+[![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-MATRIX%20Creator-C51A4A?logo=raspberrypi&logoColor=white)](https://github.com/matrix-io/matrix-creator-hal)
 
 NUST Robotics and AI · Pakistan Navy Engineering College (PNEC), NUST · 2022–2023
 

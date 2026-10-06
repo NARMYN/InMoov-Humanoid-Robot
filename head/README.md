@@ -3,7 +3,7 @@
 **A conversational social-robot head built on the open-source [InMoov](https://inmoov.fr/) humanoid. Cy (pronounced "Sai") talks with people, recognises known faces, answers questions, controls lab lights and fans by voice, and turns its head toward whoever is speaking.**
 
 [![Python](https://img.shields.io/badge/Python-3.7%E2%80%933.9-3776AB?logo=python&logoColor=white)](https://www.python.org/)
-[![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-MATRIX%20Creator-C51A4A?logo=raspberrypi&logoColor=white)](https://www.matrix.one/)
+[![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-MATRIX%20Creator-C51A4A?logo=raspberrypi&logoColor=white)](https://github.com/matrix-io/matrix-creator-hal)
 [![Arduino](https://img.shields.io/badge/Arduino-Servo-00979D?logo=arduino&logoColor=white)](https://www.arduino.cc/)
 [![InMoov](https://img.shields.io/badge/Hardware-InMoov%20Head-orange)](https://inmoov.fr/)
 
@@ -188,4 +188,4 @@ Developed by students of the **NUST Robotics and AI** society at Pakistan Navy E
 - **[InMoov](https://inmoov.fr/)** by Gaël Langevin: the open-source 3D-printed humanoid whose head Cy is built on.
 - **[ODAS](https://github.com/introlab/odas)** by IntRoLab, Université de Sherbrooke: sound source localisation and tracking.
 - **[MATRIX Creator / HAL](https://github.com/matrix-io/matrix-creator-hal)**: microphone array and LED ring.
-- **[DialoGPT](https://github.com/microsoft/DialoGPT)** (Microsoft), **[Simple Transformers](https://simpletransformers.ai/)**, **[OpenCV](https://opencv.org/)**, **[Wolfram Alpha](https://www.wolframalpha.com/)**, **[ThingSpeak](https://thingspeak.com/)**.
+- **[DialoGPT](https://github.com/microsoft/DialoGPT)** (Microsoft), **[Simple Transformers](https://github.com/ThilinaRajapakse/simpletransformers)**, **[OpenCV](https://opencv.org/)**, **[Wolfram Alpha](https://www.wolframalpha.com/)**, **[ThingSpeak](https://thingspeak.com/)**.

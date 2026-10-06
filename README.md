@@ -9,6 +9,11 @@
 
 NUST Robotics and AI · Pakistan Navy Engineering College (PNEC), NUST · 2022–2023
 
+<div align="center">
+  <img src="docs/images/inmoov_robot.jpg" width="420" alt="The completed InMoov humanoid robot at Pakistan Navy Engineering College">
+  <br><em>The completed robot at Pakistan Navy Engineering College. The head is Cy, with glowing eyes and a speaker in the ear; the Microsoft Kinect is the black sensor bar below the chest.</em>
+</div>
+
 ---
 
 ## Overview
@@ -73,8 +78,9 @@ InMoov-Humanoid-Robot/
 │   └── STT.py               # speech-to-text helper used by handgesture.py
 ├── voice/
 │   └── OpenAI.py            # speech → OpenAI GPT → spoken answer
-└── experiments/
-    └── ros_maze/            # unrelated ROS 1 maze-escape exercise (laser scanner robot)
+├── experiments/
+│   └── ros_maze/            # unrelated ROS 1 maze-escape exercise (laser scanner robot)
+└── docs/images/             # photos
 ```
 
 ---

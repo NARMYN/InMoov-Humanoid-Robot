@@ -1,0 +1,2 @@
+./matrix-odas &
+./odaslive -vc ../config/matrix-demo/matrix_creator.cfg

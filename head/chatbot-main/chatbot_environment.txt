@@ -1,0 +1,50 @@
+Step #1: Install Anaconda (or Miniconda if you want to keep it light)
+Anaconda download link: https://www.anaconda.com/products/individual
+Miniconda download link: https://docs.conda.io/en/latest/miniconda.html
+In the process of installing, make sure add miniconda to path is checked.
+
+Step #2: Install & setup Git
+Git download link: https://git-scm.com/download/win
+
+Step #3: Launch Anaconda prompt (without admin rights)
+Type these commands one by one. Lines starting with hash are comments.
+	
+	# Update conda and all packages in base environment
+	conda update conda
+	conda update all
+	# Create a environment named "chatbot"
+	conda create --name chatbot
+	# Activate the environment
+	conda activate chatbot
+	# Install Python 3.9
+	conda install python=3.9
+	# Install PyTorch
+	-> If donot have a dedicated NVIDIA GPU in your laptop
+		conda install pytorch torchvision torchaudio cpuonly -c pytorch
+	-> If you have a dedicated NVIDIA GPU in your laptop
+		conda install pytorch torchvision torchaudio -c pytorch -c conda-forge
+	# Install PyTorch Ignite
+	conda install ignite -c pytorch
+	# Install NumPy, Pandas & Matplotlib
+	conda install numpy pandas matplotlib 
+	# Install Jupyter Notebook (ONLY IF YOU USE MINICONDA)
+	conda install notebook
+	# Update all packages
+	conda update --all
+	# Downgrade nbconvert for compatibility reasons
+	conda install "nbconvert<6"
+	# Install libraries for transformers
+	pip install spacy ftfy
+	spacy download en
+	pip install transformers
+	pip install simpletransformers
+	# Install libraries for Speech-to-Text (STS)
+	pip install pipwin
+	pipwin install pyaudio
+	pip install SpeechRecognition
+	# Install libraries for Text-to-Speech (TTS)
+	pip install gTTS
+	pip install pyttsx3
+	# Clean up
+	conda clean -all
+	pip cache purge
